@@ -9,6 +9,7 @@ jobs:
       - run: npm install
       - run: make setup
       - run: make test
-      - run: make lint
+      - name: lint
+        run: make lint
       - name: Hello from Hexlet
         uses: hexlet-components/hello-from-hexlet-action@release
