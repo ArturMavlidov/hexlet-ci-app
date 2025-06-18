@@ -1,4 +1,5 @@
 # Example app for CI Hexlet course
+[![flow](https://github.com/ArturMavlidov/hexlet-ci-app/actions/workflows/say-hello.yml/badge.svg)](https://github.com/ArturMavlidov/hexlet-ci-app/actions/workflows/say-hello.yml)
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
 
